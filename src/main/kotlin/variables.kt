@@ -1,0 +1,3 @@
+fun funVariables() {
+    print("fdsfsd")
+}
