@@ -1,3 +1,5 @@
 fun funVariables() {
-    print("fdsfsd")
+    val age: Int
+    age = 23
+    println(age)
 }
