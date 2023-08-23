@@ -28,8 +28,13 @@ fun funVariables() {
 //    println(address)
 
 
-    val a: Int = 0b0101    // 5
-    val b: Int = 0b1011     // 11
-    println(a)      // 5
-    println(b)      // 11
+//    val a: Int = 0b0101    // 5
+//    val b: Int = 0b1011     // 11
+//    println(a)      // 5
+//    println(b)      // 11
+
+//    val height: Double = 1.78
+//    val pi: Float = 3.14F
+//    println(height)      // 1.78
+//    println(pi)         // 3.14
 }
